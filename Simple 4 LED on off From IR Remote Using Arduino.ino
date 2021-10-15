@@ -1,7 +1,7 @@
 /* 
  * Simple 4 ELD On/Off From IR Remote - Arduino
  * PHP Tutorial - https://youtu.be/8zw6BxW2LnU
- * GitHub - https://github.com/Nexample-G/Simple-IR-Remote-Receive-Demo-Arduino
+ * GitHub - https://github.com/Nexample-G/Simple-4-ELD-On-Off-From-IR-Remote-Arduino
  * Dev: Nexample info.nexample@gmail.com
  */
 #include <IRremote.h>
